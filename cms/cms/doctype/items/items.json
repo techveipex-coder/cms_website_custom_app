@@ -1,0 +1,70 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:item_category",
+ "creation": "2026-09-15 13:02:47.521284",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "details_section",
+  "item_category",
+  "assigned_to_product",
+  "description"
+ ],
+ "fields": [
+  {
+   "fieldname": "details_section",
+   "fieldtype": "Section Break",
+   "label": "Details"
+  },
+  {
+   "fieldname": "item_category",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Item Category",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "assigned_to_product",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Assigned to Product",
+   "options": "Products",
+   "reqd": 1
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Text Editor",
+   "label": "Description"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2026-09-15 13:05:02.342028",
+ "modified_by": "Administrator",
+ "module": "Cms",
+ "name": "Items",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

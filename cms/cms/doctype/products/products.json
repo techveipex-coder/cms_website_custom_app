@@ -1,26 +1,43 @@
 {
  "actions": [],
  "allow_rename": 1,
- "creation": "2026-09-09 14:18:09.742623",
+ "autoname": "field:product_category",
+ "creation": "2026-09-15 13:00:36.136661",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "name1"
+  "details_section",
+  "product_category",
+  "description"
  ],
  "fields": [
   {
-   "fieldname": "name1",
+   "fieldname": "details_section",
+   "fieldtype": "Section Break",
+   "label": "Details"
+  },
+  {
+   "fieldname": "product_category",
    "fieldtype": "Data",
-   "label": "Name"
+   "in_list_view": 1,
+   "label": "Product Category",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Text Editor",
+   "label": "Description"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-15 12:48:38.475830",
+ "modified": "2026-09-15 13:02:20.294717",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Products",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
