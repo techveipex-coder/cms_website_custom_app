@@ -1,0 +1,153 @@
+{
+  "charts": [],
+  "content": "[{\"id\":\"cms_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>CMS Management</b></span>\",\"col\":12}},{\"id\":\"cms_card_001\",\"type\":\"card\",\"data\":{\"card_name\":\"CMS Masters\",\"col\":12}},{\"id\":\"cms_spacer_001\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"cms_shortcut_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Quick Access</b></span>\",\"col\":12}},{\"id\":\"cms_shortcut_001\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Services\",\"col\":3}},{\"id\":\"cms_shortcut_002\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sub Item\",\"col\":3}},{\"id\":\"cms_shortcut_003\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sub Item List\",\"col\":3}},{\"id\":\"cms_shortcut_004\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items\",\"col\":3}},{\"id\":\"cms_shortcut_005\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Products\",\"col\":3}}]",
+  "creation": "",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "folder",
+  "idx": 0,
+  "indicator_color": "",
+  "is_hidden": 0,
+  "label": "CMS",
+  "links": [
+    {
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "CMS Masters",
+      "link_count": 5,
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Card Break"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Services",
+      "link_count": 0,
+      "link_to": "Services",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Sub Item",
+      "link_count": 0,
+      "link_to": "Sub Item",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Sub Item List",
+      "link_count": 0,
+      "link_to": "Sub Item List",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Items",
+      "link_count": 0,
+      "link_to": "Items",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Products",
+      "link_count": 0,
+      "link_to": "Products",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+  "dependencies": "",
+  "hidden": 0,
+  "is_query_report": 0,
+  "label": "Technology Item",
+  "link_count": 0,
+  "link_to": "Technology Item",
+  "link_type": "DocType",
+  "onboard": 0,
+  "type": "Link"
+},
+{
+  "dependencies": "",
+  "hidden": 0,
+  "is_query_report": 0,
+  "label": "Technology",
+  "link_count": 0,
+  "link_to": "Technology",
+  "link_type": "DocType",
+  "onboard": 0,
+  "type": "Link"
+}
+  ],
+  "modified": "",
+  "modified_by": "Administrator",
+  "module": "Cms",
+  "name": "CMS",
+  "number_cards": [],
+  "owner": "Administrator",
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 1.0,
+  "shortcuts": [
+    {
+      "label": "Services",
+      "link_to": "Services",
+      "type": "DocType"
+    },
+    {
+      "label": "Sub Item",
+      "link_to": "Sub Item",
+      "type": "DocType"
+    },
+    {
+      "label": "Sub Item List",
+      "link_to": "Sub Item List",
+      "type": "DocType"
+    },
+    {
+      "label": "Items",
+      "link_to": "Items",
+      "type": "DocType"
+    },
+    {
+      "label": "Products",
+      "link_to": "Products",
+      "type": "DocType"
+    },
+    {
+  "label": "Technology Item",
+  "link_to": "Technology Item",
+  "type": "DocType"
+},
+{
+  "label": "Technology",
+  "link_to": "Technology",
+  "type": "DocType"
+}
+  ],
+  "title": "CMS"
+}
