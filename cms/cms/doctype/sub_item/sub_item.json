@@ -10,7 +10,8 @@
   "sub_item_name",
   "assigned_to_sub_item_list",
   "description",
-  "sub_item_image"
+  "sub_item_image",
+  "sheet_url"
  ],
  "fields": [
   {
@@ -43,12 +44,18 @@
    "fieldname": "sub_item_image",
    "fieldtype": "Attach Image",
    "label": "Sub Item Image"
+  },
+  {
+   "fieldname": "sheet_url",
+   "fieldtype": "Data",
+   "label": " Sheet Url",
+   "reqd": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-21 10:05:53.123314",
+ "modified": "2026-09-22 09:44:42.000324",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Sub Item",
