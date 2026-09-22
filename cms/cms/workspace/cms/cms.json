@@ -7,7 +7,7 @@
  "doctype": "Workspace",
  "for_user": "",
  "hide_custom": 0,
- "icon": "folder",
+ "icon": "folder-normal",
  "idx": 0,
  "indicator_color": "green",
  "is_hidden": 0,
@@ -133,7 +133,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-09-22 15:57:40.235347",
+ "modified": "2026-09-22 18:04:36.498031",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "CMS",
