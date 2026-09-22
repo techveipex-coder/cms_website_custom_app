@@ -9,7 +9,8 @@
   "details_section",
   "sub_item_name",
   "assigned_to_sub_item_list",
-  "description"
+  "description",
+  "sub_item_image"
  ],
  "fields": [
   {
@@ -37,12 +38,17 @@
    "fieldname": "description",
    "fieldtype": "Text Editor",
    "label": "Description"
+  },
+  {
+   "fieldname": "sub_item_image",
+   "fieldtype": "Attach Image",
+   "label": "Sub Item Image"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-15 13:09:59.192692",
+ "modified": "2026-09-21 10:05:53.123314",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Sub Item",

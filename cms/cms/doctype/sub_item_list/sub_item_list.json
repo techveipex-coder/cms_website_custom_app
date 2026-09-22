@@ -9,7 +9,13 @@
   "details_section",
   "sub_item_category",
   "assigned_to_item",
-  "description"
+  "description",
+  "tab_2_tab",
+  "page_information_section",
+  "page_header",
+  "page_subtitle",
+  "cover_image",
+  "page_description"
  ],
  "fields": [
   {
@@ -37,12 +43,42 @@
    "fieldname": "description",
    "fieldtype": "Text Editor",
    "label": "Description"
+  },
+  {
+   "fieldname": "page_information_section",
+   "fieldtype": "Section Break",
+   "label": "Page Information"
+  },
+  {
+   "fieldname": "page_header",
+   "fieldtype": "Data",
+   "label": "Page Header"
+  },
+  {
+   "fieldname": "cover_image",
+   "fieldtype": "Attach Image",
+   "label": "Cover image"
+  },
+  {
+   "fieldname": "tab_2_tab",
+   "fieldtype": "Tab Break",
+   "label": "Tab 2"
+  },
+  {
+   "fieldname": "page_subtitle",
+   "fieldtype": "Data",
+   "label": "Page Subtitle"
+  },
+  {
+   "fieldname": "page_description",
+   "fieldtype": "Text Editor",
+   "label": "Page Description"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-15 13:07:32.586609",
+ "modified": "2026-09-21 09:59:45.568213",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Sub Item List",
