@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:url",
  "creation": "2026-09-22 12:41:46.574564",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -32,16 +33,18 @@
   {
    "fieldname": "url",
    "fieldtype": "Data",
-   "label": "URL"
+   "label": "URL",
+   "unique": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-22 12:44:50.426770",
+ "modified": "2026-09-23 15:41:41.346297",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Partners",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
