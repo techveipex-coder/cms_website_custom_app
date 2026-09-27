@@ -18,6 +18,7 @@
   {
    "fieldname": "intersted_in_services",
    "fieldtype": "Link",
+   "in_list_view": 1,
    "label": "Intersted In Services",
    "options": "Services",
    "unique": 1
@@ -27,7 +28,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2026-09-21 16:08:13.708322",
+ "modified": "2026-09-27 11:43:12.379410",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Interested in Services",

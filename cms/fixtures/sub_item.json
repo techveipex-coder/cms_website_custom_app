@@ -1,0 +1,28 @@
+[
+ {
+  "assigned_to_sub_item_list": "Desk phone",
+  "description": "<div class=\"ql-editor read-mode\"><p>ghghhghhh</p></div>",
+  "docstatus": 0,
+  "doctype": "Sub Item",
+  "key_feature": null,
+  "modified": "2026-09-21 09:49:27.194294",
+  "name": "Snom D895M",
+  "paner_of_page": null,
+  "sheet_url": null,
+  "sub_item_name": "Snom D895M",
+  "summarize_features": null
+ },
+ {
+  "assigned_to_sub_item_list": "Desk phone",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Sub Item",
+  "key_feature": null,
+  "modified": "2026-09-27 11:32:57.662304",
+  "name": "Snom D865M",
+  "paner_of_page": null,
+  "sheet_url": "https://www.snom.com/en/products/desk-phones/d7xx/snom-d735/",
+  "sub_item_name": "Snom D865M",
+  "summarize_features": null
+ }
+]
