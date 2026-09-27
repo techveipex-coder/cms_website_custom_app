@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "hash",
+ "autoname": "field:full_name",
  "creation": "2026-09-21 11:43:47.701560",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -28,7 +28,8 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Full Name",
-   "reqd": 1
+   "reqd": 1,
+   "unique": 1
   },
   {
    "fieldname": "phone_number",
@@ -84,11 +85,11 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-27 11:39:14.519730",
+ "modified": "2026-09-21 16:27:46.329236",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Demo Form",
- "naming_rule": "Random",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {

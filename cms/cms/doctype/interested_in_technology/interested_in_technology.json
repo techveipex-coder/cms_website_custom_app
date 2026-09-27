@@ -1,13 +1,13 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:interested_in_technology",
- "creation": "2026-09-27 11:03:49.794153",
+ "autoname": "field:intersested_in_technology",
+ "creation": "2026-09-21 16:03:26.400907",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
   "details_section",
-  "interested_in_technology"
+  "intersested_in_technology"
  ],
  "fields": [
   {
@@ -16,10 +16,9 @@
    "label": "Details"
   },
   {
-   "fieldname": "interested_in_technology",
+   "fieldname": "intersested_in_technology",
    "fieldtype": "Link",
-   "in_list_view": 1,
-   "label": "Interested in Technology",
+   "label": "Intersested In Technology",
    "options": "Technology Item",
    "unique": 1
   }
@@ -28,7 +27,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2026-09-27 11:43:00.233185",
+ "modified": "2026-09-21 16:08:06.520846",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Interested in Technology",
