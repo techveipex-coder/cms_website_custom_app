@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class InterestedinServices(Document):
+class InterestedInServices(Document):
 	pass
