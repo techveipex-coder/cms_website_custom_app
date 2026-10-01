@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:technology_category",
+ "autoname": "hash",
  "creation": "2026-09-17 11:22:29.468060",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -33,11 +33,11 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-17 11:29:28.078835",
- "modified_by": "Administrator",
+ "modified": "2026-09-28 11:01:18.808678",
+ "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Technology",
- "naming_rule": "By fieldname",
+ "naming_rule": "Random",
  "owner": "Administrator",
  "permissions": [
   {
