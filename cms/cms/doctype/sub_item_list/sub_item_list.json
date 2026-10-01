@@ -10,6 +10,7 @@
   "sub_item_category",
   "assigned_to_item",
   "description",
+  "image",
   "tab_2_tab",
   "page_information_section",
   "page_header",
@@ -73,12 +74,17 @@
    "fieldname": "page_description",
    "fieldtype": "Text Editor",
    "label": "Page Description"
+  },
+  {
+   "fieldname": "image",
+   "fieldtype": "Attach Image",
+   "label": "image"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-21 09:59:45.568213",
+ "modified": "2026-10-01 14:11:17.300027",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Sub Item List",
