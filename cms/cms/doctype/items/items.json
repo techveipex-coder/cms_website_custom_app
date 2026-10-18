@@ -9,7 +9,8 @@
   "details_section",
   "item_category",
   "assigned_to_product",
-  "description"
+  "description",
+  "image"
  ],
  "fields": [
   {
@@ -37,13 +38,18 @@
    "fieldname": "description",
    "fieldtype": "Text Editor",
    "label": "Description"
+  },
+  {
+   "fieldname": "image",
+   "fieldtype": "Attach Image",
+   "label": "Image"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-15 13:05:02.342028",
- "modified_by": "Administrator",
+ "modified": "2026-10-06 12:11:43.854134",
+ "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Items",
  "naming_rule": "By fieldname",

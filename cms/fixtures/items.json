@@ -1,11 +1,12 @@
 [
  {
   "assigned_to_product": "Voip",
-  "description": "<div class=\"ql-editor read-mode\"><p>gdgsgshdfgsd</p></div>",
+  "description": "<div class=\"ql-editor read-mode\"><p>Business communications for office, home and on the go. Innovative fixed and wireless IP phones, DECT handsets, headsets and conferencing.</p><p><br></p></div>",
   "docstatus": 0,
   "doctype": "Items",
-  "item_category": "Snoom",
-  "modified": "2026-09-21 09:45:05.850508",
-  "name": "Snoom"
+  "image": "/files/logo_snom.webp",
+  "item_category": "Snom",
+  "modified": "2026-10-06 12:12:35.216002",
+  "name": "Snom"
  }
 ]

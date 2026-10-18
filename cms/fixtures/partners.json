@@ -1,1 +1,12 @@
-[]
+[
+ {
+  "custom_title": "Snom",
+  "description": "<div class=\"ql-editor read-mode\"><p>Snom\t</p></div>",
+  "docstatus": 0,
+  "doctype": "Partners",
+  "logo": "/files/logo_snom.webp",
+  "modified": "2026-10-04 10:52:20.575054",
+  "name": "https://snom.com",
+  "url": "https://snom.com"
+ }
+]

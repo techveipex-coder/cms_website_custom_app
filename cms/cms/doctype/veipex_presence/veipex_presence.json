@@ -8,9 +8,11 @@
  "field_order": [
   "details_section",
   "country_name",
-  "country_phone",
   "country_logo",
-  "country_code"
+  "country_code",
+  "phone",
+  "email",
+  "address"
  ],
  "fields": [
   {
@@ -27,11 +29,6 @@
    "unique": 1
   },
   {
-   "fieldname": "country_phone",
-   "fieldtype": "Data",
-   "label": "Country Phone "
-  },
-  {
    "fieldname": "country_logo",
    "fieldtype": "Attach Image",
    "label": "Country Logo",
@@ -42,12 +39,27 @@
    "fieldtype": "Link",
    "label": "Country Code",
    "options": "Country"
+  },
+  {
+   "fieldname": "phone",
+   "fieldtype": "Data",
+   "label": "Phone"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Data",
+   "label": "Address"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-23 14:53:43.632760",
+ "modified": "2026-10-15 12:14:28.017289",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Veipex-Presence",

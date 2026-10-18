@@ -11,6 +11,7 @@
   "assigned_to_item",
   "description",
   "image",
+  "short_description",
   "tab_2_tab",
   "page_information_section",
   "page_header",
@@ -39,11 +40,6 @@
    "label": "Assigned to Item",
    "options": "Items",
    "reqd": 1
-  },
-  {
-   "fieldname": "description",
-   "fieldtype": "Text Editor",
-   "label": "Description"
   },
   {
    "fieldname": "page_information_section",
@@ -79,13 +75,23 @@
    "fieldname": "image",
    "fieldtype": "Attach Image",
    "label": "image"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Text Editor",
+   "label": "Description"
+  },
+  {
+   "fieldname": "short_description",
+   "fieldtype": "Text Editor",
+   "label": "Short Description"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-01 14:11:17.300027",
- "modified_by": "Administrator",
+ "modified": "2026-10-06 14:25:36.594165",
+ "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Sub Item List",
  "naming_rule": "By fieldname",

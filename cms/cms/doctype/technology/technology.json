@@ -8,7 +8,9 @@
  "field_order": [
   "details_section",
   "technology_category",
-  "description"
+  "technology_category_ar",
+  "description",
+  "description_ar"
  ],
  "fields": [
   {
@@ -28,12 +30,25 @@
    "fieldname": "description",
    "fieldtype": "Text Editor",
    "label": "Description"
+  },
+  {
+   "fieldname": "technology_category_ar",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Technology Category ar",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "description_ar",
+   "fieldtype": "Text Editor",
+   "label": "Description ar"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-28 11:01:18.808678",
+ "modified": "2026-10-12 15:04:11.091088",
  "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Technology",

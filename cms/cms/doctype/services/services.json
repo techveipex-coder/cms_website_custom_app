@@ -8,7 +8,10 @@
  "field_order": [
   "details_section",
   "service_name",
-  "service_description"
+  "service_name_ar",
+  "service_description",
+  "service_description_ar",
+  "custom_icon"
  ],
  "fields": [
   {
@@ -30,13 +33,33 @@
    "in_list_view": 1,
    "label": "Service Description",
    "reqd": 1
+  },
+  {
+   "fieldname": "service_name_ar",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Service Name ar",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "service_description_ar",
+   "fieldtype": "Text Editor",
+   "in_list_view": 1,
+   "label": "Service Description ar",
+   "reqd": 1
+  },
+  {
+   "fieldname": "custom_icon",
+   "fieldtype": "Icon",
+   "label": "Icon"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-15 13:12:48.816384",
- "modified_by": "Administrator",
+ "modified": "2026-10-12 14:54:16.906550",
+ "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Services",
  "naming_rule": "By fieldname",

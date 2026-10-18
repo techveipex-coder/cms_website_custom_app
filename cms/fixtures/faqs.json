@@ -3,8 +3,10 @@
   "docstatus": 0,
   "doctype": "FAQS",
   "frequently_answer": "<div class=\"ql-editor read-mode\"><p>Yes Yes Yes </p><p><br></p></div>",
-  "frequently_question": "<div class=\"ql-editor read-mode\"><p><strong style=\"background-color: rgb(245, 245, 245); color: rgb(10, 13, 83);\">Can Veipex support an technology team?</strong></p></div>",
-  "modified": "2026-09-21 12:31:31.987735",
+  "frequently_answer_ar": "<div class=\"ql-editor read-mode\"><p>Yes</p></div>",
+  "frequently_question": "<div class=\"ql-editor read-mode\"><p><strong style=\"background-color:rgb(245, 245, 245);color:rgb(10, 13, 83)\">Can Veipex support an technology team?</strong></p></div>",
+  "frequently_question_ar": "<div class=\"ql-editor read-mode\"><p>هل بإمكان شركة Veipex دعم فريق تقني؟</p></div>",
+  "modified": "2026-10-12 15:15:03.625263",
   "name": "1",
   "question_number": "1"
  }

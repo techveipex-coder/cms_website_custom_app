@@ -1,6 +1,132 @@
 [
  {
   "assigned_to_technology_category": "Business Application & Productivity Solutions",
+  "description": "<div class=\"ql-editor read-mode\"><p>Streamline and manage your core business operations with integrated ERP solutions that connect finance, sales, inventory, HR, and other essential processes in one centralized platform.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:07:03.778608",
+  "name": "Enterprise Resource Planning",
+  "technology_item_name": "Enterprise Resource Planning"
+ },
+ {
+  "assigned_to_technology_category": "Business Application & Productivity Solutions",
+  "description": "<div class=\"ql-editor read-mode\"><p>Empower your teams with productivity tools and real-time analytics that provide actionable insights, improve performance, and support smarter business decisions.</p><p><br></p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:07:16.116276",
+  "name": "Workforce Productivity & Analytics",
+  "technology_item_name": "Workforce Productivity & Analytics"
+ },
+ {
+  "assigned_to_technology_category": "Business Application & Productivity Solutions",
+  "description": "<div class=\"ql-editor read-mode\"><p>Simplify sales and inventory management with cloud-based POS solutions that provide real-time stock visibility, faster transactions, and centralized control across your business.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:07:41.116598",
+  "name": "Cloud POS & Inventory",
+  "technology_item_name": "Cloud POS & Inventory"
+ },
+ {
+  "assigned_to_technology_category": "pb1mg1scnq",
+  "description": "<div class=\"ql-editor read-mode\"><p>Protect sensitive business information with advanced DLP solutions that identify, monitor, and prevent unauthorized access, sharing, or leakage of critical data.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:08:40.654844",
+  "name": "Data Loss Prevention (DLP)",
+  "technology_item_name": "Data Loss Prevention (DLP)"
+ },
+ {
+  "assigned_to_technology_category": "pb1mg1scnq",
+  "description": "<div class=\"ql-editor read-mode\"><p>Secure digital identities, devices, and communications with PKI and identity security solutions that provide strong authentication, encryption, and trusted access across your organization.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:08:49.892926",
+  "name": "PKI & Identity Security",
+  "technology_item_name": "PKI & Identity Security"
+ },
+ {
+  "assigned_to_technology_category": "pb1mg1scnq",
+  "description": "<div class=\"ql-editor read-mode\"><p>Strengthen your organization's security and compliance posture with GRC solutions that help manage risks, meet regulatory requirements, and establish effective governance processes.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:09:02.965350",
+  "name": "Governance, Risk & Compliance (GRC)",
+  "technology_item_name": "Governance, Risk & Compliance (GRC)"
+ },
+ {
+  "assigned_to_technology_category": "pdq2qi2ut3",
+  "description": "<div class=\"ql-editor read-mode\"><p>Modernize business communications with secure, scalable cloud-based IP PBX solutions that simplify call management, reduce infrastructure costs, and enable flexible communication from anywhere.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:09:36.080537",
+  "name": "Cloud IP PBX",
+  "technology_item_name": "Cloud IP PBX"
+ },
+ {
+  "assigned_to_technology_category": "pdq2qi2ut3",
+  "description": "<div class=\"ql-editor read-mode\"><p>Turn computers and mobile devices into powerful business communication tools with secure softphone solutions for making and receiving calls from anywhere with an internet connection.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:09:46.056652",
+  "name": "Softphones",
+  "technology_item_name": "Softphones"
+ },
+ {
+  "assigned_to_technology_category": "pdq2qi2ut3",
+  "description": "<div class=\"ql-editor read-mode\"><p>Deliver connected customer experiences across voice, chat, email, social media, and other channels through centralized contact center solutions that improve engagement and service efficiency.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:09:55.628761",
+  "name": "Omnichannel Contact Centers",
+  "technology_item_name": "Omnichannel Contact Centers"
+ },
+ {
+  "assigned_to_technology_category": "pdq2qi2ut3",
+  "description": "<div class=\"ql-editor read-mode\"><p>Enhance business communication with reliable Voice over IP solutions that deliver high-quality, cost-effective voice services while providing the flexibility to scale as your business grows.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:10:09.381387",
+  "name": "VoIP",
+  "technology_item_name": "VoIP"
+ },
+ {
+  "assigned_to_technology_category": "pgvbcacve6",
+  "description": "<div class=\"ql-editor read-mode\"><p>Enable natural, intelligent interactions with AI-powered conversational solutions that understand user needs, provide instant responses, and deliver personalized experiences around the clock.</p><p><br></p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:10:39.467058",
+  "name": "Conversational AI",
+  "technology_item_name": "Conversational AI"
+ },
+ {
+  "assigned_to_technology_category": "pgvbcacve6",
+  "description": "<div class=\"ql-editor read-mode\"><p>Enhance customer engagement with intelligent chatbots for websites and mobile apps that answer questions, guide users, automate support, and generate leads 24/7.</p><p><br></p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:10:47.845562",
+  "name": "Website & App Chatbots",
+  "technology_item_name": "Website & App Chatbots"
+ },
+ {
+  "assigned_to_technology_category": "pgvbcacve6",
+  "description": "<div class=\"ql-editor read-mode\"><p>Transform WhatsApp into an intelligent customer engagement channel with AI-powered systems that automate conversations, handle inquiries, provide support, and streamline business processes.</p><p><br></p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:10:55.398984",
+  "name": "WhatsApp AI Systems",
+  "technology_item_name": "WhatsApp AI Systems"
+ },
+ {
+  "assigned_to_technology_category": "pgvbcacve6",
+  "description": "<div class=\"ql-editor read-mode\"><p>Automate customer interactions with AI-powered voice and calling solutions that handle inbound and outbound calls, qualify leads, provide information, and deliver consistent customer support.</p></div>",
+  "docstatus": 0,
+  "doctype": "Technology Item",
+  "modified": "2026-10-05 11:11:07.038704",
+  "name": "Automated Voice & Calls",
+  "technology_item_name": "Automated Voice & Calls"
+ },
+ {
+  "assigned_to_technology_category": "Business Application & Productivity Solutions",
   "description": "<div class=\"ql-editor read-mode\"><p>cloud description</p></div>",
   "docstatus": 0,
   "doctype": "Technology Item",

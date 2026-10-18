@@ -1,10 +1,62 @@
 [
  {
+  "custom_icon": "globe-code",
+  "custom_service_icon": null,
   "docstatus": 0,
   "doctype": "Services",
-  "modified": "2026-09-21 15:43:08.194215",
+  "modified": "2026-10-12 15:01:30.935930",
+  "name": "Website Development",
+  "service_description": "<div class=\"ql-editor read-mode\"><p>Create modern, responsive, and high-performing websites designed to strengthen your online presence and turn visitors into customers.</p></div>",
+  "service_description_ar": "<div class=\"ql-editor read-mode\"><p>أنشئ مواقع ويب حديثة وسريعة الاستجابة وعالية الأداء مصممة لتعزيز وجودك على الإنترنت وتحويل الزوار إلى عملاء.</p></div>",
+  "service_name": "Website Development",
+  "service_name_ar": "تطوير مواقع الويب"
+ },
+ {
+  "custom_icon": "cloudy",
+  "custom_service_icon": null,
+  "docstatus": 0,
+  "doctype": "Services",
+  "modified": "2026-10-12 15:00:41.514700",
+  "name": "Cloud Services",
+  "service_description": "<div class=\"ql-editor read-mode\"><p>Scale your business with secure, reliable, and flexible cloud solutions that improve performance, accessibility, and operational efficiency.</p></div>",
+  "service_description_ar": "<div class=\"ql-editor read-mode\"><p>قم بتوسيع نطاق أعمالك باستخدام حلول سحابية آمنة وموثوقة ومرنة تعمل على تحسين الأداء وإمكانية الوصول والكفاءة التشغيلية.</p></div>",
+  "service_name": "Cloud Services",
+  "service_name_ar": "خدمات الحوسبة السحابية"
+ },
+ {
+  "custom_icon": "waypoints",
+  "custom_service_icon": null,
+  "docstatus": 0,
+  "doctype": "Services",
+  "modified": "2026-10-12 15:01:19.898084",
+  "name": "System Integrations",
+  "service_description": "<div class=\"ql-editor read-mode\"><p>Connect your business applications and platforms to automate workflows, synchronize data, and create a more connected digital environment.</p></div>",
+  "service_description_ar": "<div class=\"ql-editor read-mode\"><p>قم بربط تطبيقات ومنصات أعمالك لأتمتة سير العمل، ومزامنة البيانات، وإنشاء بيئة رقمية أكثر ترابطًا.</p></div>",
+  "service_name": "System Integrations",
+  "service_name_ar": "تكامل الأنظمة"
+ },
+ {
+  "custom_icon": "smartphone",
+  "custom_service_icon": null,
+  "docstatus": 0,
+  "doctype": "Services",
+  "modified": "2026-10-12 14:59:25.584232",
   "name": "Mobile Application",
   "service_description": "<div class=\"ql-editor read-mode\"><p>Mobile App</p></div>",
-  "service_name": "Mobile Application"
+  "service_description_ar": "<div class=\"ql-editor read-mode\"><p>تطبيق الهاتف المحمول</p></div>",
+  "service_name": "Mobile Application",
+  "service_name_ar": "تطبيق الهاتف المحمول"
+ },
+ {
+  "custom_icon": "database-zap",
+  "custom_service_icon": null,
+  "docstatus": 0,
+  "doctype": "Services",
+  "modified": "2026-10-12 15:00:52.289381",
+  "name": "System & Data Migration",
+  "service_description": "<div class=\"ql-editor read-mode\"><p>Move your systems, applications, and data securely to modern platforms with minimal disruption and a smooth transition.</p></div>",
+  "service_description_ar": "<div class=\"ql-editor read-mode\"><p>انقل أنظمتك وتطبيقاتك وبياناتك بشكل آمن إلى منصات حديثة بأقل قدر من التعطيل وانتقال سلس.</p></div>",
+  "service_name": "System & Data Migration",
+  "service_name_ar": "ترحيل النظام والبيانات"
  }
 ]

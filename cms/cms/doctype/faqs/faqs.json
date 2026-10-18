@@ -9,7 +9,9 @@
   "details_section",
   "question_number",
   "frequently_question",
-  "frequently_answer"
+  "frequently_question_ar",
+  "frequently_answer",
+  "frequently_answer_ar"
  ],
  "fields": [
   {
@@ -36,13 +38,26 @@
    "fieldtype": "Text Editor",
    "label": "Frequently Answer",
    "reqd": 1
+  },
+  {
+   "fieldname": "frequently_question_ar",
+   "fieldtype": "Text Editor",
+   "in_list_view": 1,
+   "label": "Frequently Question ar",
+   "reqd": 1
+  },
+  {
+   "fieldname": "frequently_answer_ar",
+   "fieldtype": "Text Editor",
+   "label": "Frequently Answer ar",
+   "reqd": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-21 12:29:51.621401",
- "modified_by": "Administrator",
+ "modified": "2026-10-12 15:12:05.959967",
+ "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "FAQS",
  "naming_rule": "By fieldname",
