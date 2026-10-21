@@ -1,50 +1,50 @@
 [
- {
-  "custom_icon": "shield",
-  "custom_image": null,
-  "description": "<div class=\"ql-editor read-mode\"><p>Protect your digital environment with proactive cybersecurity and risk management.</p></div>",
-  "description_ar": "<div class=\"ql-editor read-mode\"><p>احمِ بيئتك الرقمية من خلال الأمن السيبراني الاستباقي وإدارة المخاطر.</p></div>",
-  "docstatus": 0,
-  "doctype": "Technology",
-  "modified": "2026-10-12 15:05:43.792281",
-  "name": "pb1mg1scnq",
-  "technology_category": "CyberSecurity & Risk Solutions",
-  "technology_category_ar": "حلول الأمن السيبراني وإدارة المخاطر"
- },
- {
-  "custom_icon": "user-round-group",
-  "custom_image": null,
-  "description": "<div class=\"ql-editor read-mode\"><p>Connect your teams and customers through smarter, integrated communication solutions.</p></div>",
-  "description_ar": null,
-  "docstatus": 0,
-  "doctype": "Technology",
-  "modified": "2026-10-06 12:00:23.677583",
-  "name": "pdq2qi2ut3",
-  "technology_category": "Unified Communication & Customer Solutions",
-  "technology_category_ar": null
- },
- {
-  "custom_icon": "bot",
-  "custom_image": null,
-  "description": "<div class=\"ql-editor read-mode\"><p>Automate repetitive processes and empower your business with intelligent AI-driven solutions.</p></div>",
-  "description_ar": null,
-  "docstatus": 0,
-  "doctype": "Technology",
-  "modified": "2026-10-06 12:00:04.583280",
-  "name": "pgvbcacve6",
-  "technology_category": "Intelligent Automation & AI Agents",
-  "technology_category_ar": null
- },
- {
-  "custom_icon": null,
-  "custom_image": null,
-  "description": "<div class=\"ql-editor read-mode\"><p>i want describe it</p></div>",
-  "description_ar": null,
-  "docstatus": 0,
-  "doctype": "Technology",
-  "modified": "2026-09-17 16:27:27.295034",
-  "name": "Business Application & Productivity Solutions",
-  "technology_category": "Business Application & Productivity Solutions",
-  "technology_category_ar": null
- }
+  {
+    "custom_icon": "shield",
+    "custom_image": null,
+    "description": "<div class=\"ql-editor read-mode\"><p>Protect your digital environment with proactive cybersecurity and risk management.</p></div>",
+    "description_ar": "<div class=\"ql-editor read-mode\"><p>احمِ بيئتك الرقمية من خلال الأمن السيبراني الاستباقي وإدارة المخاطر.</p></div>",
+    "docstatus": 0,
+    "doctype": "Technology",
+    "modified": "2026-10-12 15:05:43.792281",
+    "name": "pb1mg1scnq",
+    "technology_category": "CyberSecurity & Risk Solutions",
+    "technology_category_ar": "حلول الأمن السيبراني وإدارة المخاطر"
+  },
+  {
+    "custom_icon": "user-round-group",
+    "custom_image": null,
+    "description": "<div class=\"ql-editor read-mode\"><p>Connect your teams and customers through smarter, integrated communication solutions.</p></div>",
+    "description_ar": null,
+    "docstatus": 0,
+    "doctype": "Technology",
+    "modified": "2026-10-06 12:00:23.677583",
+    "name": "pdq2qi2ut3",
+    "technology_category": "Unified Communication & Customer Solutions",
+    "technology_category_ar": "Unified Communication & Customer Solutions"
+  },
+  {
+    "custom_icon": "bot",
+    "custom_image": null,
+    "description": "<div class=\"ql-editor read-mode\"><p>Automate repetitive processes and empower your business with intelligent AI-driven solutions.</p></div>",
+    "description_ar": null,
+    "docstatus": 0,
+    "doctype": "Technology",
+    "modified": "2026-10-06 12:00:04.583280",
+    "name": "pgvbcacve6",
+    "technology_category": "Intelligent Automation & AI Agents",
+    "technology_category_ar": "Intelligent Automation & AI Agents"
+  },
+  {
+    "custom_icon": null,
+    "custom_image": null,
+    "description": "<div class=\"ql-editor read-mode\"><p>i want describe it</p></div>",
+    "description_ar": null,
+    "docstatus": 0,
+    "doctype": "Technology",
+    "modified": "2026-09-17 16:27:27.295034",
+    "name": "Business Application & Productivity Solutions",
+    "technology_category": "Business Application & Productivity Solutions",
+    "technology_category_ar": "Business Application & Productivity Solutions"
+  }
 ]
