@@ -12,7 +12,8 @@
   "country_code",
   "phone",
   "email",
-  "address"
+  "address",
+  "country_image"
  ],
  "fields": [
   {
@@ -54,12 +55,17 @@
    "fieldname": "address",
    "fieldtype": "Data",
    "label": "Address"
+  },
+  {
+   "fieldname": "country_image",
+   "fieldtype": "Attach Image",
+   "label": "Country Image"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-15 12:14:28.017289",
+ "modified": "2026-10-22 11:17:24.692355",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Veipex-Presence",
