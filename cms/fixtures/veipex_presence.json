@@ -2,6 +2,7 @@
  {
   "address": "Ashgar Darna, 40 Zahraa El Maadi, Cairo, Egypt",
   "country_code": "Egypt",
+  "country_image": null,
   "country_logo": "/files/eg.svg",
   "country_name": "Egypt",
   "docstatus": 0,
@@ -14,6 +15,7 @@
  {
   "address": "King Fahd Airport – Dammam.",
   "country_code": "Saudi Arabia",
+  "country_image": null,
   "country_logo": "/files/sa.svg",
   "country_name": "Saudi Arabia",
   "docstatus": 0,
@@ -26,6 +28,7 @@
  {
   "address": "Court Tower Business Bay, Dubai.",
   "country_code": "United Arab Emirates",
+  "country_image": null,
   "country_logo": "/files/ae.svg",
   "country_name": "UAE",
   "docstatus": 0,
@@ -38,6 +41,7 @@
  {
   "address": null,
   "country_code": "Kenya",
+  "country_image": null,
   "country_logo": "/files/ke.svg",
   "country_name": "Kenya",
   "docstatus": 0,

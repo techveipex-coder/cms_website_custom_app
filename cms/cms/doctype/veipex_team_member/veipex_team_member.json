@@ -10,7 +10,8 @@
   "member_name",
   "phone_number",
   "role_of_member",
-  "member_image"
+  "member_image",
+  "display_order"
  ],
  "fields": [
   {
@@ -40,12 +41,17 @@
    "fieldname": "member_image",
    "fieldtype": "Attach Image",
    "label": "Member Image"
+  },
+  {
+   "fieldname": "display_order",
+   "fieldtype": "Int",
+   "label": "Display Order"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-28 12:51:11.862002",
+ "modified": "2026-10-25 11:49:47.558607",
  "modified_by": "Administrator",
  "module": "Cms",
  "name": "Veipex Team Member",
