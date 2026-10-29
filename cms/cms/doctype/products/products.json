@@ -8,7 +8,8 @@
  "field_order": [
   "details_section",
   "product_category",
-  "description"
+  "description",
+  "icon"
  ],
  "fields": [
   {
@@ -28,13 +29,18 @@
    "fieldname": "description",
    "fieldtype": "Text Editor",
    "label": "Description"
+  },
+  {
+   "fieldname": "icon",
+   "fieldtype": "Icon",
+   "label": "Icon"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-15 13:02:20.294717",
- "modified_by": "Administrator",
+ "modified": "2026-10-29 11:41:03.416665",
+ "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Products",
  "naming_rule": "By fieldname",

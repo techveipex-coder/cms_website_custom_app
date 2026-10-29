@@ -9,7 +9,8 @@
   "details_section",
   "description",
   "logo",
-  "url"
+  "url",
+  "custom_title"
  ],
  "fields": [
   {
@@ -35,13 +36,18 @@
    "fieldtype": "Data",
    "label": "URL",
    "unique": 1
+  },
+  {
+   "fieldname": "custom_title",
+   "fieldtype": "Data",
+   "label": "Title"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-23 15:41:41.346297",
- "modified_by": "Administrator",
+ "modified": "2026-10-29 11:45:07.940680",
+ "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Partners",
  "naming_rule": "By fieldname",

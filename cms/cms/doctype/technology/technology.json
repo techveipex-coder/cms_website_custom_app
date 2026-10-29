@@ -10,7 +10,9 @@
   "technology_category",
   "technology_category_ar",
   "description",
-  "description_ar"
+  "description_ar",
+  "custom_image",
+  "custom_icon"
  ],
  "fields": [
   {
@@ -43,12 +45,22 @@
    "fieldname": "description_ar",
    "fieldtype": "Text Editor",
    "label": "Description ar"
+  },
+  {
+   "fieldname": "custom_image",
+   "fieldtype": "Attach Image",
+   "label": "Image"
+  },
+  {
+   "fieldname": "custom_icon",
+   "fieldtype": "Icon",
+   "label": "Icon"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-12 15:04:11.091088",
+ "modified": "2026-10-29 11:46:51.881059",
  "modified_by": "v16@veipex.com",
  "module": "Cms",
  "name": "Technology",
